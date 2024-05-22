@@ -1,0 +1,4 @@
+/heatmaps/*.svg
+/heatmaps/*.png
+/heatmaps/*.gif
+/data/output.txt
