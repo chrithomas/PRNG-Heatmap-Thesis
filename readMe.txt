@@ -44,6 +44,7 @@ TO DOWNLOAD NECESSARY PACKAGES:
 
 **
 This project was completed as apart of UMass Boston's Computer Science Capstone CS410
+    Class Project Repo: https://github.com/UMB-Heatmap/heatmap
 
 CONTRIBUTERS (github):
     https://github.com/chrithomas
